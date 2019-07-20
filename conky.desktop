@@ -1,0 +1,12 @@
+[Desktop Entry]
+#move to ~/.config/autostart
+Type=Application
+Exec=/usr/bin/bash /home/lxz/.conky/conkyrc/startconky.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_IN]=Conky
+Name=Conky
+Comment[en_IN]=Conky Start
+Comment=
+
